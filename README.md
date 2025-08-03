@@ -1,4 +1,4 @@
-Deep Learning Projects Collection
+# Deep Learning Projects Collection
 
 This repository contains a series of deep learning and machine learning projects completed for coursework at California State University, Fullerton. The notebooks demonstrate practical implementations of neural network models for various classification tasks, ranging from sentiment analysis to handwritten digit and character recognition.
 
