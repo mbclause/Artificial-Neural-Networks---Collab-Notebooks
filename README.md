@@ -42,6 +42,9 @@ This introductory project demonstrates digit recognition using a feed-forward ne
 
   * Trains and evaluates using train/test splits and categorical cross-entropy loss.
 
+# 4. Research Paper
+An original research paper detailing recent advances in applying deep learning to solve combinatorial optimization problems.
+
 # Requirements
 
 These notebooks require:
