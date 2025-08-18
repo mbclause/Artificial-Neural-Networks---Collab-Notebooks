@@ -4,6 +4,8 @@ This repository contains a series of deep learning and machine learning projects
 
 # 1. CPSC_585_Project_2_Group_10.ipynb
 
+Co-Collab0rators: Madeline Smith, Kevin Huang, Tina Torabinejad, Mohammed Abdul Mujeeb, Zitian Lin
+
 This project explores sentiment and difficulty prediction from student comments using deep learning techniques. The notebook:
 
   * Preprocesses natural language text data using tokenization and padding.
